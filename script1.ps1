@@ -1,6 +1,1 @@
-echo Write-Host Hello World > RunMe.ps1
-git add RunMe.ps1
-git commit -m "Ready To Run"
-git tag 0.0.1
-git push
-git push --tags
+Write-Host Hello World
